@@ -20,11 +20,11 @@ To write comments, you simply use two forward slashes: //
 
 Works Cited
 
-“Eclipse for C++: How to Install, Setup and Use Eclipse For C++.” Software Testing Help, 27 Aug. 2021, www.softwaretestinghelp.com/eclipse-for-cpp/. 
-“Eclipse Platform.” Help, help.eclipse.org/latest/index.jsp. 
-“Overview.” Mingw, www.mingw-w64.org/. 
-C++ Tutorial, www.w3schools.com/cpp/default.asp. 
-Corob-Msft. “Microsoft C/C++ DOCUMENTATION.” Microsoft C/C++ Documentation | Microsoft Docs, docs.microsoft.com/en-us/cpp/?view=msvc-160. 
-“C++ Programming Language.” DevDocs, devdocs.io/cpp/. 
+“Eclipse for C++: How to Install, Setup and Use Eclipse For C++.” Software Testing Help, 27 Aug. 2021, www.softwaretestinghelp.com/eclipse-for-cpp/.<br/>
+“Eclipse Platform.” Help, help.eclipse.org/latest/index.jsp.<br/>
+“Overview.” Mingw, www.mingw-w64.org/.<br/>
+C++ Tutorial, www.w3schools.com/cpp/default.asp.<br/> 
+Corob-Msft. “Microsoft C/C++ DOCUMENTATION.” Microsoft C/C++ Documentation | Microsoft Docs, docs.microsoft.com/en-us/cpp/?view=msvc-160.<br/>
+“C++ Programming Language.” DevDocs, devdocs.io/cpp/.<br/> 
 
 

@@ -9,14 +9,19 @@ C++ is a general-purpose programming language, but is used primarily for system 
 
 Getting Started
 
-I had some issues installing the language. I initially wanted to use VSCode, so I installed some build tools for that and attempted to use the compiler MinGW. Unfortunately, even after doing extensive research about the PATH and how to build C++, VSCode for some reason would not accept my pathing (I’ll figure it out eventually). After days of frustration, I downloaded the IDE Eclipse. Luckily, I could use MinGW with Eclipse. I was easily able to get it set up, and run my first Hello World.<br/>
-Visual Studio (VSCode) is the primary IDE for C++, which is why I wanted to use it first. Other programming environments that people use for C++ are Eclipse (of course), Code:: Blocks, CLion, CodeLite, Apache NetBeans, Qt Creator, among others.<br/>
-I’ve included sources below in the Works Cited that I used to set up C++ myself, to write this article, and to use in the future.
+You'll need to install a compiler, like Cygwin or MinGW. I used MinGW, which can be found here: https://sourceforge.net/projects/mingw-w64/
+You'll also need to install an IDE. Visual Studio (VSCode) is the primary IDE for C++. Other programming environments that people use for C++ are
+Eclipse, Code:: Blocks, CLion, CodeLite, Apache NetBeans, Qt Creator, among others.<br/>
+I installed Eclipse, which can be found here: https://www.eclipse.org/downloads/
 
 Running Code
 
-To run a C++ program in Eclipse, you need to right click the project name in Project Explorer, select “Build Project.” Once it’s built, you right-click the project name in the Project Explorer and click “Run as.” Then, select “Local C/C++ Application.” Then, it runs!<br/>
+You'll need to make a New Project, and then within that new project, create a New File with the ending .cpp.
+
+To run a C++ program in Eclipse, you need to right click the project name in Project Explorer, select “Build Project.” Once it’s built, you right-click the project name in the Project Explorer and click “Run as.” Then, select “Local C/C++ Application.”<br/>
 To write comments, you simply use two forward slashes: //
+
+There are some resources 
 
 Works Cited
 

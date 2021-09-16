@@ -1,7 +1,3 @@
-Assignment 1 (PLP): Language Overview and Setup
-Kirby Assaf
-9/8/21
-
 C++ History
 
 In 1979, Bjarne Stroustrup, while doing work for his thesis, used the programming language Simula, which was the first language to support object-oriented programming. Inspired and wanting more, he created “C with Classes,” which was a superset of the C language. He wanted to add object-oriented programming to C, including classes, inheritance, inlining, and default function arguments. In 1983, “C with Classes” was changed to C++.<br/>

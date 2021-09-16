@@ -4,11 +4,11 @@ There's single if/else statements:
 
   int x = 3
   if (x == 3) {
-		cout << "true";
-	} 
+	cout << "true";
+} 
   else {
-		cout << "false";
-	}
+	cout << "false";
+}
   
 The spacing and bracket placement is incredibly important; it will let you know if you've spaced something wrong.
 
@@ -16,26 +16,26 @@ You can also have else if to add further conditions:
 
   int x = 3
   if (x == 3) {
-		cout << "true";
-	} 
+	cout << "true";
+} 
   else if (x == 4) {
-    cout << "false";
-  } 
+    	cout << "false";
+} 
   else {
-		cout << "false";
-	}
+	cout << "false";
+}
 
 You can use short-circuit evaluation (a statement ignoring the second part of the statement if the first is true in the if clause):
 
   int y = 3;
   int z = 5;
 
-	if (x == y || y == z) {
-		cout << "true";
-	} 
+  if (x == y || y == z) {
+	cout << "true";
+} 
   else {
-		cout << "false";
-	}
+	cout << "false";
+}
 
 In the above example, the terminal will print "true," because the first part of the statement is true, even though the second part isn't.
 
@@ -46,17 +46,16 @@ of how they're nested. For example:
   int y = 4;
 
   if (x == 3){
-		cout << "test";
-	}
+	cout << "test";
+}
 
-	if (y == 6){
-		cout << "test";
-	}
+  if (y == 6){
+	cout << "test";
+}
 
-	else {
-		cout << "false";
-	}
-	return 0;
+  else {
+	cout << "false";
+}
   
 The above code prints testfalse, because x is 3 (which prints true) and y is not 6, so it moves to the else.
 
@@ -64,19 +63,19 @@ You can also use switch statements:
 
   x = 3;
   switch (x) {
-	  case 1:
+	case 1:
 	    cout << "x is one";
 	    break;
-	  case 2:
+	case 2:
 	    cout << "x is two";
 	    break;
-	  case 3:
-		  cout << "x is three";
-		  break;
-	  default:
+	case 3:
+	    cout << "x is three";
+	    break;
+	default:
 	    cout << "x is a variable";
-	}
-  
+}
+
 This allows you to have multiple conditions that each have different outcomes without the bulkiness of if/else statements. In the above example, since x is 3, the third case
 is true. Keep in mind that the case name depends on the condition, not the number (i.e. you could have a case "yes" and a case "no").
 

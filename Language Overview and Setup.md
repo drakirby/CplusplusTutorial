@@ -21,8 +21,6 @@ You'll need to make a New Project, and then within that new project, create a Ne
 To run a C++ program in Eclipse, you need to right click the project name in Project Explorer, select “Build Project.” Once it’s built, you right-click the project name in the Project Explorer and click “Run as.” Then, select “Local C/C++ Application.”<br/>
 To write comments, you simply use two forward slashes: //
 
-There are some resources 
-
 Works Cited
 
 “Eclipse for C++: How to Install, Setup and Use Eclipse For C++.” Software Testing Help, 27 Aug. 2021, www.softwaretestinghelp.com/eclipse-for-cpp/.<br/>

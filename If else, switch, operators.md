@@ -87,6 +87,6 @@ You can also have a default case, which is the case if none of the other cases a
 
 # Works Cited:
 
-C++ Tutorial, www.w3schools.com/cpp/default.asp.
-Corob-Msft. “Microsoft C/C++ DOCUMENTATION.” Microsoft C/C++ Documentation | Microsoft Docs, docs.microsoft.com/en-us/cpp/?view=msvc-160.
+C++ Tutorial, www.w3schools.com/cpp/default.asp.</br>
+Corob-Msft. “Microsoft C/C++ DOCUMENTATION.” Microsoft C/C++ Documentation | Microsoft Docs, docs.microsoft.com/en-us/cpp/?view=msvc-160.</br>
 “C++ Programming Language.” DevDocs, devdocs.io/cpp/.

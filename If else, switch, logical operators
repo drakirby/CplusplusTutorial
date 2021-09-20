@@ -1,3 +1,5 @@
+# If else, switch, logical operators
+
 Boolean values in C++ are simply lowercase true and false. You can use these in several conditional statements.
 
 There's single if/else statements:
@@ -83,7 +85,7 @@ You need to break; after every statement, otherwise the terminal will print ever
 
 You can also have a default case, which is the case if none of the other cases are true.
 
-Works Cited:
+# Works Cited:
 
 C++ Tutorial, www.w3schools.com/cpp/default.asp.
 Corob-Msft. “Microsoft C/C++ DOCUMENTATION.” Microsoft C/C++ Documentation | Microsoft Docs, docs.microsoft.com/en-us/cpp/?view=msvc-160.

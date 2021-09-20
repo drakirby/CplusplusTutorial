@@ -1,4 +1,4 @@
-# If else, switch, logical operators
+# If else, switch, logical operators:
 
 Boolean values in C++ are simply lowercase true and false. You can use these in several conditional statements.
 

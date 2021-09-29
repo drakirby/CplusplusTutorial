@@ -115,9 +115,14 @@ order to function (pun intended).
 
 # Works Cited:
 https://www.tutorialspoint.com/cplusplus/cpp_pointers.htm
+
 https://www.w3schools.com/cpp/default.asp
+
 https://www.programiz.com/cpp-programming/recursion
+
 https://www.cprogramming.com/tutorial/function-pointers.html
+
 https://www.cplusplus.com/doc/tutorial/functions/
+
 https://www.geeksforgeeks.org/assigning-function-to-a-variable-in-cpp/
 

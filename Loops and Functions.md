@@ -1,6 +1,6 @@
 # Loops
 
-C++ has multiple types of loops. They include a while loop, a do/while looop, a for loop, and a for each loop. I've included examples to all of them in the looptest folder.
+C++ has multiple types of loops. They include a while loop, a do/while looop, a for loop, and a for/each loop. I've included examples to all of them in the looptest folder, in the file loops.cpp.
 
 This is a while loop:
 
@@ -50,7 +50,7 @@ In a for/each loop, the loop counts through an array (i.e., for _each_ item in t
 
 # Functions
 
-To declare a function, you need to specify the struct (what will the function return--void if nothing);
+To declare a function, you need to specify the struct (what datatype will the function return--void if nothing);
 
     void
    
@@ -71,7 +71,7 @@ That's it!
 
 Remember that functions must _always_ be placed above your main() function (the function where you call your other functions). Otherwise, your IDE will not notice them.
 
-C++ does allow recursive functions. Here's the code to ask the user for a factorial:
+C++ does allow recursive functions. Here's the code to ask the user for a factorial (also in loops.cpp):
 
     void factorial(){
 
@@ -107,7 +107,7 @@ Pass-by-reference and pass-by-value are phrases that refer to how the program st
 refer to that value when it's called. Pass-by-reference means that the code would store the object's exact location to obtain the value, and refer to that value at that
 location when it's called.
 
-I did a test in the looptest folder where I looked at whether C++ was pass-by-reference or pass-by-value. What I learned was that C++ is, by default, pass-by-value, but you
+I did a test in loops.cpp where I looked at whether C++ was pass-by-reference or pass-by-value. What I learned was that C++ is, by default, pass-by-value, but you
 can easily use pass-by-reference by using pointers.
 
 Pointers are used more often than you'd think in code, due to C++'s nature of being pass-by-value. Many types of functions, including recursive ones, need pointers in
